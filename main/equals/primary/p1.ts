@@ -1,0 +1,10 @@
+const name: string = "chen";
+const age: number = 12;
+const male: boolean = false;
+const undef: undefined = undefined;
+const nullef: null = null;
+const obj: object = { name, age, male };
+const bigint1:bigint = 9007199254740991n;
+const bigint2:bigint = BigInt(9007199254740991);
+const symbolVar: symbol = Symbol('unique');
+export {};
