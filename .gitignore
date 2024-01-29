@@ -1,2 +1,9 @@
 ## dev module
-node_modules
+.DS_Store
+build/*
+node_modules/
+npm-debug.log
+npm-debug.log.*
+thumbs.db
+!.gitkeep
+.idea/
